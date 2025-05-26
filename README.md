@@ -2,7 +2,7 @@
 
 This repository contains two classic games—**a Match-3 Puzzle** and **2048**—completely generated using Amazon Q CLI. With just a few prompts and some light iteration, both games were built, refined, and made playable end-to-end through the power of Amazon Q.
 
-I followed this excellent setup guide by [Ricardo Sueiras](https://community.aws/content/2v5PptEEYT2y0lRmZbFQtECA66M/the-essential-guide-to-installing-amazon-q-developer-cli-on-windows?trk=e07eca93-fa2f-4351-b567-f293b83eb635&sc_channel=el_) to get started, and you can read about my full experience in this [blog post](<your-blog-link-here>).
+I followed this excellent setup guide by [Ricardo Sueiras](https://community.aws/content/2v5PptEEYT2y0lRmZbFQtECA66M/the-essential-guide-to-installing-amazon-q-developer-cli-on-windows?trk=e07eca93-fa2f-4351-b567-f293b83eb635&sc_channel=el_) to get started, and you can read about my full experience in this [blog post](https://community.aws/content/2xcHGWx6W6RUPP0a9wzxSFEgqQh/how-i-built-two-games-in-under-an-hour-with-amazon-q-cli).
 
 
 ## 🎮 Match-3 Puzzle Game
